@@ -1,9 +1,6 @@
 # NoodleCloud
 
-![GitHub repo size](https://img.shields.io/github/repo-size/timedilationv2/noodlecloud?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/timedilationv2/noodlecloud?style=flat-square)
-
-> **Enterprise-grade cloud testing API designed for infrastructure validation, automated load testing, and CI/CD integration.**
+**Cloud-native testing API** designed for **infrastructure validation, automated load testing, and security compliance**.
 
 ---
 
