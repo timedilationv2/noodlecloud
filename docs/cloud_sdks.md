@@ -1,12 +1,11 @@
-# Cloud SDKs - AWS, Azure, GCP
+# Cloud sdks
 
-NoodleCloud integrates with major cloud platforms through official SDKs.
-
-### **SDKs Used**
-- **AWS:** Boto3 for AWS Lambda, S3, EC2, etc.
-- **Azure:** Azure SDK for resource management
-- **GCP:** Google Cloud SDK for deployments
+Content for **cloud_sdks.md** page.
 
 ---
 
-**Home | [Backend](./backend.md) | Next → Database**
+**<a href="../README.md" target="_blank">Home</a> | <a href="./tech_stack.md" target="_blank">Previous</a> | <a href="./database.md" target="_blank">Next</a>**
+
+<p align="center" style="color:silver;">
+<strong>Arsalan Khan | Artifix Labs | Seattle, Washington | 2025</strong>
+</p>

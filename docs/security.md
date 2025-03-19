@@ -1,12 +1,11 @@
-# Security - Compliance & Monitoring
+# Security
 
-NoodleCloud integrates with **cloud security tools** for compliance and monitoring.
-
-### **Security Features**
-- **AWS Security Hub**: Scans AWS environments for threats
-- **Azure Security Center**: Detects security issues in Azure
-- **GCP Policy Scanner**: Ensures cloud policies are enforced
+Content for **security.md** page.
 
 ---
 
-**Home | [CI/CD](./cicd.md) | Next**
+**<a href="../README.md" target="_blank">Home</a> | <a href="./tech_stack.md" target="_blank">Previous</a> | <a href="./database.md" target="_blank">Next</a>**
+
+<p align="center" style="color:silver;">
+<strong>Arsalan Khan | Artifix Labs | Seattle, Washington | 2025</strong>
+</p>

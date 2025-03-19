@@ -1,11 +1,11 @@
-# Database - PostgreSQL & Redis
+# Database
 
-NoodleCloud uses **PostgreSQL** for **persistent storage** and **Redis** for **caching test results**.
-
-### **Database Features**
-- **PostgreSQL**: Stores test logs, API responses, and configurations
-- **Redis**: Improves performance by caching recent results
+Content for **database.md** page.
 
 ---
 
-**Home | [Cloud SDKs](./cloud_sdks.md) | Next → CI/CD**
+**<a href="../README.md" target="_blank">Home</a> | <a href="./tech_stack.md" target="_blank">Previous</a> | <a href="./database.md" target="_blank">Next</a>**
+
+<p align="center" style="color:silver;">
+<strong>Arsalan Khan | Artifix Labs | Seattle, Washington | 2025</strong>
+</p>
