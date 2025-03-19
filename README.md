@@ -16,10 +16,10 @@ NoodleCloud is a cloud-native testing API designed to provide **infrastructure v
 
 | Folder  | Description |
 |---------|------------|
-| [`docs/`](docs/) | Documentation files |
-| [`src/`](src/)  | API source code |
-| [`tests/`](tests/) | Unit and integration tests |
-| [`scripts/`](scripts/) | Utility and automation scripts |
+| [docs/](./docs/) | Documentation files |
+| [src/](./src/)  | API source code |
+| [tests/](./tests/) | Unit and integration tests |
+| [scripts/](./scripts/) | Utility and automation scripts |
 
 ## Installation
 
@@ -32,16 +32,16 @@ pip install -r requirements.txt
 ## Documentation
 | Section | Description |
 |---------|-------------|
-| [Architecture](docs/architecture.md) | System architecture overview |
-| [Setup Guide](docs/setup.md) | Steps to set up the project |
-| [Usage Guide](docs/usage.md) | How to use NoodleCloud |
-| [API Reference](docs/api_reference.md) | API details & endpoints |
-| [Contribution Guide](docs/contributing.md) | How to contribute to the project |
+| [Architecture](./docs/architecture.md) | System architecture overview |
+| [Setup Guide](./docs/setup.md) | Steps to set up the project |
+| [Usage Guide](./docs/usage.md) | How to use NoodleCloud |
+| [API Reference](./docs/api_reference.md) | API details & endpoints |
+| [Contribution Guide](./docs/contributing.md) | How to contribute to the project |
 
 ---
 
 ### Navigation  
-[Home](README.md) | [Setup Guide →](docs/setup.md)
+[Home](./README.md) | [Setup Guide →](./docs/setup.md)
 
 ---
 
