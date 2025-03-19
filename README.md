@@ -1,16 +1,23 @@
 # NoodleCloud
 
-NoodleCloud is a cloud-native testing API designed to provide **infrastructure validation, automated load testing, and CI/CD integration** for cloud applications.
+![GitHub repo size](https://img.shields.io/github/repo-size/timedilationv2/noodlecloud?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/timedilationv2/noodlecloud?style=flat-square)
+
+> **Enterprise-grade cloud testing API designed for infrastructure validation, automated load testing, and CI/CD integration.**
+
+---
 
 ## Key Features
 
 | Feature                   | Description |
 |---------------------------|-------------|
-| **Multi-Cloud Support**   | Compatible with AWS, Azure, and GCP |
-| **Automated Test Execution** | Runs in CI/CD pipelines |
-| **Performance Benchmarking** | Simulates real-world cloud workloads |
-| **Infrastructure Validation** | Ensures correct configurations and deployments |
-| **Security Compliance**   | Detects policy violations and cloud misconfigurations |
+| Multi-Cloud Support       | Compatible with AWS, Azure, and GCP |
+| Automated Test Execution  | Runs in CI/CD pipelines |
+| Performance Benchmarking  | Simulates real-world cloud workloads |
+| Infrastructure Validation | Ensures correct configurations and deployments |
+| Security Compliance       | Detects policy violations and misconfigurations |
+
+---
 
 ## Repository Structure
 
@@ -21,7 +28,9 @@ NoodleCloud is a cloud-native testing API designed to provide **infrastructure v
 | [tests/](./tests/) | Unit and integration tests |
 | [scripts/](./scripts/) | Utility and automation scripts |
 
-## Installation
+---
+
+## Installation & Setup
 
 ```bash
 git clone https://github.com/timedilationv2/noodlecloud.git
@@ -29,7 +38,10 @@ cd noodlecloud
 pip install -r requirements.txt
 ```
 
+---
+
 ## Documentation
+
 | Section | Description |
 |---------|-------------|
 | [Architecture](./docs/architecture.md) | System architecture overview |
@@ -40,7 +52,8 @@ pip install -r requirements.txt
 
 ---
 
-### Navigation  
+## Navigation  
+
 [Home](./README.md) | [Setup Guide →](./docs/setup.md)
 
 ---
