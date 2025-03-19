@@ -12,26 +12,8 @@ curl -X POST "https://api.noodlecloud.com/tests/create" -H "Content-Type: applic
 }'
 ```
 
-## Best Practices
-
-| Tip | Description |
-|-----|-------------|
-| Use versioning | Keep track of API updates |
-| Monitor logs | Enable logging for debugging |
-| Secure API Keys | Use environment variables to store keys |
-
-## Related Docs
-
-| Section | Description |
-|---------|-------------|
-| [Setup Guide](./setup.md) | Steps to set up the project |
-| [API Reference](./api_reference.md) | API details & endpoints |
-
 ---
 
-### Navigation  
-[← Setup Guide](./setup.md) | [API Reference →](./api_reference.md)
-
----
+**Home | Previous | Next**
 
 **Arsalan Khan | Artifix Labs | Seattle, Washington | 2025**
