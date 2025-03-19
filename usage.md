@@ -1,11 +1,11 @@
-# CloudNoodle Usage Guide
+# NoodleCloud Usage Guide
 
-This guide explains how to use CloudNoodle to **run cloud-based tests**.
+This guide explains how to use NoodleCloud to **execute cloud-based tests**.
 
 ## Running a Cloud Test
 
 ```bash
-curl -X POST "https://api.cloudnoodle.com/tests/create" -H "Content-Type: application/json" -d '{
+curl -X POST "https://api.noodlecloud.com/tests/create" -H "Content-Type: application/json" -d '{
     "test_name": "Cloud Deployment Validation",
     "cloud_provider": "AWS",
     "resources": ["EC2", "RDS", "Lambda"]
@@ -22,5 +22,16 @@ curl -X POST "https://api.cloudnoodle.com/tests/create" -H "Content-Type: applic
 
 ## Related Docs
 
-- [Setup Guide](setup.md)
-- [API Reference](api_reference.md)
+| Section | Description |
+|---------|-------------|
+| [Setup Guide](setup.md) | Steps to set up the project |
+| [API Reference](api_reference.md) | API details & endpoints |
+
+---
+
+### Navigation  
+[← Setup Guide](setup.md) | [API Reference →](api_reference.md)
+
+---
+
+**Arsalan Khan | Artifix Labs | Seattle, Washington | 2025**

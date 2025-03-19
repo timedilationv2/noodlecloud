@@ -3,7 +3,7 @@
 ## Authentication
 
 ```bash
-curl -X POST "https://api.cloudnoodle.com/auth/login" -d '{
+curl -X POST "https://api.noodlecloud.com/auth/login" -d '{
     "username": "user",
     "password": "pass"
 }'
@@ -20,5 +20,16 @@ curl -X POST "https://api.cloudnoodle.com/auth/login" -d '{
 
 ## Related Docs
 
-- [Usage Guide](usage.md)
-- [Setup Guide](setup.md)
+| Section | Description |
+|---------|-------------|
+| [Usage Guide](usage.md) | Running tests and best practices |
+| [Setup Guide](setup.md) | Steps to set up the project |
+
+---
+
+### Navigation  
+[← Usage Guide](usage.md) | [Contribution Guide →](contributing.md)
+
+---
+
+**Arsalan Khan | Artifix Labs | Seattle, Washington | 2025**

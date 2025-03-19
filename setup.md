@@ -9,8 +9,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/timedilationv2/cloudnoodle.git
-cd cloudnoodle
+git clone https://github.com/timedilationv2/noodlecloud.git
+cd noodlecloud
 pip install -r requirements.txt
 ```
 
@@ -21,7 +21,19 @@ export CLOUD_PROVIDER="aws"
 export API_KEY="your-api-key"
 ```
 
-## Next Steps
+## Related Docs
 
-- [Usage Guide](usage.md)
-- [API Reference](api_reference.md)
+| Section | Description |
+|---------|-------------|
+| [Usage Guide](usage.md) | Running tests and best practices |
+| [API Reference](api_reference.md) | API details & endpoints |
+| [Contribution Guide](contributing.md) | How to contribute to the project |
+
+---
+
+### Navigation  
+[← Architecture](architecture.md) | [Usage Guide →](usage.md)
+
+---
+
+**Arsalan Khan | Artifix Labs | Seattle, Washington | 2025**
