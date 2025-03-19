@@ -10,9 +10,9 @@
 |-----------|-------------|------|
 | **Backend** | Python (FastAPI) | [Backend](./docs/backend.md) |
 | **Cloud SDKs** | AWS SDK (Boto3), Azure SDK, Google Cloud SDK | [Cloud SDKs](./docs/cloud_sdks.md) |
-| **Database** | PostgreSQL (Cloud logs), Redis (Caching results) | [Database](./docs/database.md) |
-| **CI/CD** | GitHub Actions + Terraform | [CI/CD](./docs/cicd.md) |
-| **Security** | AWS Security Hub, Azure Security Center, GCP Policy Scanner | [Security](./docs/security.md) |
+| **Database** | PostgreSQL, Redis | [Database](./docs/database.md) |
+| **CI/CD** | GitHub Actions, Terraform | [CI/CD](./docs/cicd.md) |
+| **Security** | AWS Security Hub, Azure Security Center | [Security](./docs/security.md) |
 
 ---
 
